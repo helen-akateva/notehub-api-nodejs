@@ -2,7 +2,7 @@
 
 A full-featured RESTful API for managing notes with user authentication, built with Node.js and Express. This backend service provides secure note management with JWT authentication, email verification, file uploads, and MongoDB integration.
 
-🔗 **Live Demo:** [NoteHub API Documentation](https://notehub-api-nodejs.vercel.app)
+🔗 **Live Demo:** [NoteHub API Documentation](https://nodejs-eybj.onrender.com)
 
 ## 📋 Description
 
